@@ -221,9 +221,9 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![image]()
+![image](https://github.com/KATHIR1611/EXP-4-MAD-/blob/main/ak1.png)
 
-![image]()
+![image](https://github.com/KATHIR1611/EXP-4-MAD-/blob/main/ak2.png)
 
 
 
