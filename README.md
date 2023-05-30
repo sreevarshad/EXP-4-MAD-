@@ -1,16 +1,16 @@
 # Ex.No:4 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
 
-## AIM:
+### AIM:
 
 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
 
-## EQUIPMENTS REQUIRED:
+### EQUIPMENTS REQUIRED:
 
 Latest Version Android Studio
 
-## ALGORITHM:
+### ALGORITHM:
 
 Step 1: Open Android Studio and then click on File -> New -> New project.
 
@@ -31,17 +31,14 @@ Step 8: Use Explicit intent in MainActivity2 file to get the result.
 Step 9: Save and run the application.
 
 
-## PROGRAM:
-```
-/*
+### PROGRAM:
 Program to print the text “ExplicitIntent”.
-Developed by:DINESH KUMAR M
-Registeration Number :212221220011
-*/
-```
 
-activiity_main.xml:
+Developed by:Kathirvelan.K
 
+Registeration Number :212221220026
+
+Activiity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -112,7 +109,7 @@ activiity_main.xml:
         tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-MainActivity.java:
+MainActivity.java
 
 ```
 package com.example.explicitintent;
@@ -159,8 +156,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-activity_main2.xml:
-
+Activity_main2.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -200,7 +196,7 @@ activity_main2.xml:
         app:layout_constraintVertical_bias="0.407" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-MainActivity2.java:
+MainActivity2.java
 
 ```
 package com.example.explicitintent;
@@ -225,17 +221,10 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![image](https://github.com/kannan0071/MAD-Ex.No-4/assets/119641638/59f0a848-5d51-43ec-97d8-e7ff2e886b0b)
+![image]()
 
-![image](https://github.com/kannan0071/MAD-Ex.No-4/assets/119641638/c2bff05c-91f8-4e05-8654-634292e84e28)
+![image]()
 
-![image](https://github.com/kannan0071/MAD-Ex.No-4/assets/119641638/351a90e1-3b66-4654-af78-235d0fbe16bf)
-
-![image](https://github.com/kannan0071/MAD-Ex.No-4/assets/119641638/d4b12871-0621-4ada-af5c-8d724e676121)
-
-![WhatsApp Image 2023-05-25 at 13 06 56](https://github.com/kannan0071/MAD-Ex.No-4/assets/119641638/ae9fc1a6-8344-4364-ba35-9cddcc690699)
-
-![WhatsApp Image 2023-05-25 at 13 07 05](https://github.com/kannan0071/MAD-Ex.No-4/assets/119641638/ae89a2a5-f6d5-44d6-b61e-7b7e71b3221f)
 
 
 
