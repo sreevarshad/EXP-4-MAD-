@@ -220,16 +220,14 @@ public class MainActivity2 extends AppCompatActivity {
     }
 }
 ```
-### OUTPUT
+### OUTPUT:
 
-![image](https://github.com/KATHIR1611/EXP-4-MAD-/blob/main/ak1.png)
-
-![image](https://github.com/KATHIR1611/EXP-4-MAD-/blob/main/ak2.png)
+<img src="https://github.com/KATHIR1611/EXP-4-MAD-/blob/main/ak1.png" width=300 height=500><img src="https://github.com/KATHIR1611/EXP-4-MAD-/blob/main/ak2.png" width=300 height=500>
 
 
 
 
-### RESULT
+### RESULT:
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
 
 
