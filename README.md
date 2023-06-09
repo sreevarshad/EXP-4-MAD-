@@ -222,6 +222,8 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ### OUTPUT:
 
+![](https://github.com/sreevarshad/EXP-4-MAD-/blob/main/mmm%204.png)
+
 <img src="https://github.com/KATHIR1611/EXP-4-MAD-/blob/main/ak1.png" width=300 height=400><img src="https://github.com/KATHIR1611/EXP-4-MAD-/blob/main/ak2.png" width=300 height=400>
 
 
